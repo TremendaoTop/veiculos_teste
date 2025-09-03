@@ -1,1 +1,24 @@
 # veiculos_teste
+<head> <!-- usando CSS INTERNO -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+
+<body>
+  <h1> Olá Mundo!! </h1> <!-- cinza-escuro -->
+  <img src="./img/robo.jpg" id="robo">
+  
+  <h2 class="textovermelho"> Titulo 2 </h2>
+  <h3> Titulo 3 </h3>
+  <h4 class="textovermelho"> Titulo 4 </h4>
+  <h5> Titulo 5 </h5>
+  <h6 class="textovermelho"> Titulo 6 </h6>
+
+  < href:"https://www.youtube.com/watch?v=Kw5BbQsCDJw/"> clique para ver o comercial </a>
+  <br>
+  <br>
+  <br>
+  <a href="sobrenos.html"> SOBRE NOS </a>
+</body>
+
+
